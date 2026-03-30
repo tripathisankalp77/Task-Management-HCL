@@ -92,8 +92,6 @@ Access the classic Razor UI at: `http://localhost:51815`
 
 ## Screenshots
 
-### 🔐 Login Page
-![Login Page](assets/Login%20Page.jpg)
 
 ### ➕ Initialize New Task
 ![Initialize Task](assets/Initialize%20New%20Task.jpg)
