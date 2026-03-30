@@ -1,9 +1,5 @@
 # HCL Task Manager Project
 
-[![Angular](https://img.shields.io/badge/Angular-17-DD0031?logo=angular&logoColor=white)](frontend/task-manager/package.json)
-[![.NET](https://img.shields.io/badge/.NET-10-512BD4?logo=dotnet&logoColor=white)](backend/TaskManagerApi/TaskManagerApi.csproj)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white)](backend/TaskManagerApi/appsettings.json)
-
 A enterprise-grade full-stack task management application featuring a high-tech Angular frontend, a robust .NET Web API backend, and an integrated MVC Razor version.
 
 ## What This Project Does
